@@ -39,5 +39,5 @@ Python, C++, scikit-learn, Graph Neural Networks, or research
 
 ### 📊 GitHub Stats
 
-![Jonathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Meluriw&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Meluriw&layout=compact)
+![Jonathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=JonRoss7&show_icons=true&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JonRoss7&layout=compact)
