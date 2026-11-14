@@ -34,7 +34,7 @@ Python, C++, scikit-learn, Graph Neural Networks, or research
 ### 📌 Featured Projects
 
 - **[GSU REU: GNN Generalization via Graph Compression](https://github.com/Meluriw/GSU-REU-2026)** — Investigating whether graph compression/clustering methods can improve OOD generalization in GREA, a Graph Neural Network model
-- 
+  
 - **[Anote: AI Coding Assistant Datasets & Evaluation](https://github.com/Break-Through-Tech/Anote-1C-building-high-quality-datasets-and-evaluation-frameworks-for-ai-coding-assistants)** — Collaborating on an industry-sponsored AI research team studying whether structured prompt engineering improves LLM completion accuracy and per-criterion rubric adherence on real-world professional tasks, evaluated across 158 benchmarks and 35 occupations (TerminalBench, JobBench, AA-Briefcase-Lite)
 
 ---
