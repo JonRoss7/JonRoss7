@@ -1,13 +1,13 @@
 # Hi, I'm Jonathan Ross 👋
 
-Rising Senior at Morehouse College studying Computer Science, with a focus on machine learning and artificial intelligence. I'm currently a **Break Through Tech Fellow** and an **NSF REU Research Fellow**, where I explore compression and clustering techniques to improve Graph Neural Network generalization.
+Senior at Morehouse College studying Computer Science, with a focus on machine learning and artificial intelligence. I'm currently a **Break Through Tech Fellow** and recently completed an **NSF REU Research Fellowship** at Georgia State University, where I studied how graph compression and clustering techniques affect the performance and efficiency of Graph Neural Networks.
 
 I'm passionate about building AI-powered tools that solve real-world problems, and I'm actively working toward a career as a **Machine Learning Engineer / Software Engineer**.
 
 ---
 
-### 🔭 Currently working on
-Improving Out-of-Distribution (OOD) generalization in Graph Neural Networks using graph compression and clustering techniques (K-Core, K-Truss, Louvain, Metis)
+### 🔭 Recently worked on
+Studying how graph compression affects Graph Neural Network accuracy and training time across eight compression methods (including Louvain, Leiden, METIS, and k-core) and eight benchmark datasets
 
 ### 🌱 Currently learning
 Advanced ML system design and applied graph theory
